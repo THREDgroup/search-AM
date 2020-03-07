@@ -11,7 +11,7 @@ header:
 excerpt: ""
 
 ---
-This site provides a way to search popular engineering design journals using a Customer Search Engine through Google. It started off as, and still is, a side project by [Chris McComb](https://cmccomb.com) and [Tim Simpson](https://twitter.com/PSUMakerProf). 
+This site provides a way to search popular additive manufacturing journals using a Customer Search Engine through Google. It started off as, and still is, a side project by [Chris McComb](https://cmccomb.com) and [Tim Simpson](https://twitter.com/PSUMakerProf). 
 
 Currently, the following journals are included:
 - [Additive Manufacturing](https://www.journals.elsevier.com/additive-manufacturing)
