@@ -6,7 +6,7 @@ permalink: /contribute/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"  
-  overlay_image: /assets/images/books.jpg
+  overlay_image: /assets/images/metal.jpg
   caption: "Photo by [Etienne Martin](https://unsplash.com/@etiennemartin) on [Unsplash](https://unsplash.com/)"
 excerpt: ""
 
