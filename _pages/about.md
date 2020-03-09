@@ -17,28 +17,17 @@ Currently, this search engine pulls from the following resources:
 - Journals
     - [Additive Manufacturing](https://www.journals.elsevier.com/additive-manufacturing)
     - [Rapid Prototyping Journal](https://www.emerald.com/insight/publication/issn/1355-2546)
-    <!---    - Virtual & Physical Prototyping
-    - Computer-Aided Design
-    - ASME Journal of Mechanical Design
-    - ASME Journal of Manufacturing Science & Engineering
-    - ASME Journal of Computer & Information Science & Engineering
-    - JOM (J of Materials)
-    - Materials & Design
-    - Acta Materialia
-    - 3D Printing & Additive Manufacturing
-    - International Journal of Advanced Manufacturing
-    - Advanced Materials
-    - Materials Science & Engineering C
-    - Technological Forecasting & Societal Change
-    - Journal of Cleaner Production
-    - Proceedings of the Institution of Mechanical Engineers, Part B -->
+    - [Virtual & Physical Prototyping](https://www.tandfonline.com/toc/nvpp20/current)
+    - [Computer-Aided Design](https://www.journals.elsevier.com/computer-aided-design)
+    - [ASME Journal of Mechanical Design](https://asmedigitalcollection.asme.org/mechanicaldesign)
+    - [ASME Journal of Manufacturing Science & Engineering](https://asmedigitalcollection.asme.org/manufacturingscience)
+    - [ASME Journal of Computer & Information Science & Engineering](https://asmedigitalcollection.asme.org/computingengineering)
+    - [The Journal of The Minerals, Metals & Materials Society](https://www.springer.com/journal/11837)
+    - COMING SOON: Materials & Design, Acta Materialia, 3D Printing & Additive Manufacturing, International Journal of Advanced Manufacturing, Advanced Materials, Materials Science & Engineering C, Technological Forecasting & Societal Change, Journal of Cleaner Production, Proceedings of the Institution of Mechanical Engineers, Part B
 - Conferences
     - [Solid Freeform Fabrication Conference](https://www.sffsymposium.org)
-<!--    - ASME IDETC
-    - TMS Annual Meeting
-    - FabTech
-    - RAPID
-    - FormNext -->
+    - [ASME IDETC](https://asmedigitalcollection.asme.org/IDETC-CIE)
+    - COMING SOON: RAPID, FormNext, TMS Annual Meeting, FabTech
 - Trade Publications
     - [Additive Manufacturing Magazine](https://www.additivemanufacturing.media/)
     - [TCT Magazine](https://www.tctmagazine.com/)
