@@ -21,7 +21,10 @@ This site provides a way to search popular additive manufacturing sources using 
     - [ASME Journal of Manufacturing Science & Engineering](https://asmedigitalcollection.asme.org/manufacturingscience)
     - [ASME Journal of Computer & Information Science & Engineering](https://asmedigitalcollection.asme.org/computingengineering)
     - [The Journal of The Minerals, Metals & Materials Society](https://www.springer.com/journal/11837)
-    - COMING SOON: Materials & Design, Acta Materialia, 3D Printing & Additive Manufacturing, International Journal of Advanced Manufacturing, Advanced Materials, Materials Science & Engineering C, Technological Forecasting & Societal Change, Journal of Cleaner Production, Proceedings of the Institution of Mechanical Engineers, Part B
+    - [Materials & Design](https://www.journals.elsevier.com/materials-and-design)
+    - [Acta Materialia](https://www.journals.elsevier.com/acta-materialia)
+    - [3D Printing & Additive Manufacturing](https://www.liebertpub.com/loi/3dp/group/d2010.y2019)
+    - COMING SOON: , [International Journal of Advanced Manufacturing], [Advanced Materials], [Materials Science & Engineering C], [Technological Forecasting & Societal Change], [Journal of Cleaner Production], [Proceedings of the Institution of Mechanical Engineers, Part B]
 - Conferences
     - [Solid Freeform Fabrication Conference](https://www.sffsymposium.org)
     - [ASME IDETC](https://asmedigitalcollection.asme.org/IDETC-CIE)
